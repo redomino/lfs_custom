@@ -1,0 +1,12 @@
+README.txt
+setup.py
+redomino/__init__.py
+redomino.lfs_custom.egg-info/PKG-INFO
+redomino.lfs_custom.egg-info/SOURCES.txt
+redomino.lfs_custom.egg-info/dependency_links.txt
+redomino.lfs_custom.egg-info/entry_points.txt
+redomino.lfs_custom.egg-info/namespace_packages.txt
+redomino.lfs_custom.egg-info/not-zip-safe
+redomino.lfs_custom.egg-info/requires.txt
+redomino.lfs_custom.egg-info/top_level.txt
+redomino/lfs_custom/__init__.py
